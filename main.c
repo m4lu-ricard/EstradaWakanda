@@ -21,5 +21,6 @@ if (D1 == 3.5) Soma++;
 NumTeste++;
 if (strcmp(C1, "Birnin Zana")==0) Soma++;
 NumTeste++;
+     
 
 }
